@@ -1,4 +1,4 @@
-# vba-hw1
+# vba-hw2
 
 This project aims to automate testing for the first VBA class in Coding for Risk Management
 
